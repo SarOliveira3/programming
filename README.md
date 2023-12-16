@@ -19,6 +19,7 @@ Bibliotecas utilizadas:
 
 # Exemplo de Uso do Algoritmo desenvolvido
 
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_regression
@@ -41,9 +42,14 @@ plt.ylabel("y")
 plt.title("Regressão Linear")
 plt.legend()
 plt.show()
+```
 
-![Regressão](C:\Users\ricky\Downloads\regressão_linear.png)
 
+![Regressão](https://github.com/SarOliveira3/programming/blob/main/regress%C3%A3o_linear.png)https://github.com/SarOliveira3/programming/blob/main/regress%C3%A3o_linear.png)
+
+## Autores
+Raquel Cunha
+Sara Oliveira
 
 
 
