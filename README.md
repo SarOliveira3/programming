@@ -48,8 +48,8 @@ plt.show()
 ![Regressão](https://github.com/SarOliveira3/programming/blob/main/regress%C3%A3o_linear.png)https://github.com/SarOliveira3/programming/blob/main/regress%C3%A3o_linear.png)
 
 ## Autores
-Raquel Cunha
-Sara Oliveira
+- Raquel Cunha
+- Sara Oliveira
 
 
 
